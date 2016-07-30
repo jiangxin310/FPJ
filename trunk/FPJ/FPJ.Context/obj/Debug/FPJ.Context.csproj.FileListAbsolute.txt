@@ -1,0 +1,4 @@
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\FPJ.Context\bin\Debug\FPJ.Context.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\FPJ.Context\bin\Debug\FPJ.Context.pdb
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.pdb

@@ -1,0 +1,8 @@
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\bin\Debug\Utility.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\bin\Debug\Utility.pdb
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\obj\Debug\Utility.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\obj\Debug\Utility.pdb
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\bin\Debug\log4net.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\bin\Debug\Newtonsoft.Json.dll
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\bin\Debug\Newtonsoft.Json.xml
+D:\开发项目\实际项目\开发框架\FPJ\trunk\FPJ\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache

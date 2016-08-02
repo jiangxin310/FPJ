@@ -1,35 +1,18 @@
 ﻿@{
     ViewBag.Title = "首页";
 }
-
-<nav class="navbar navbar-default navbar-fixed-bottom">
-    <div class="container">
-        @for (int i = 0; i < 50; i++)
-        {
-            <div class="row" style="padding: 10px 10px 0px 10px">
-
-                <div class="col-xs-6">
-                    <a href="#" class="thumbnail">
-                        <img src="/Content/images/1.jpg" width="145px" height="145px" /></a>
-                </div>
-                <div class="col-xs-6">
-                    <ul class="list-unstyled">
-                        <li>
-                            <h3>标题 @i</h3>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <p class="text-break">尹蔚民表示，延迟退休方案预计今年出台，将会小步慢走，逐步到位区分对待，分步实施。</p>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>   
-        }
-    </div>
-    <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-    </ul>
-</nav>
+@model List<User>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>用户名</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.UserId</td>
+            <td>@item.UserName</td>
+            <td><a href="/home/detail/@item.UserId">详情</a></td>
+        </tr>  
+    }
+</table>

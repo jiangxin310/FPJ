@@ -44,7 +44,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DefaultDBTemplate.tt</DependentUpon>
     </Compile>
-    <Compile Include="T4\Orders.cs">
+    <Compile Include="T4\T1.cs">
       <DependentUpon>DefaultDBTemplate.tt</DependentUpon>
     </Compile>
     <Compile Include="T4\User.cs">

@@ -24,8 +24,8 @@ namespace FPJ.Model.Default
 <# manager.EndBlock(); #>
 
 <#      
-	string database="test";  //数据库
-    string connectionString=string.Format(@"Data Source=JS-7B7227A8FFBA\SQL2008;Persist Security Info=True;Initial Catalog={0};User ID=sa;Password=123;",database);        
+	string database="Test";  //数据库
+    string connectionString=string.Format(@"Data Source=.;Persist Security Info=True;Initial Catalog={0};User ID=sa;Password=123;",database);        
 	
 	var tables=DbHelper.GetDbTables(connectionString,database);
 

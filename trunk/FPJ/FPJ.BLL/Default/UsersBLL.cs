@@ -8,23 +8,33 @@ using Redis;
 
 namespace FPJ.BLL.Default
 {
-    public class UsersBLL
+    public class UsersBLL : DefaultBaseBLL<User>
     {
         protected readonly UsersDAL _dalUsers = new UsersDAL();
 
-        public User Get(int id)
-        {
-            return _dalUsers.Get(id);
-        }
+        #region Operator
 
         public int Insert(User entity)
         {
-            return _dalUsers.Insert(entity);
+            return dal.Insert(entity);
         }
 
-        public List<User> GetListByUserName(string userName)
+        #endregion
+
+        #region List
+
+        public List<User> GetList()
         {
-            return _dalUsers.GetListByUserName(userName);
+            return dal.GetList().ToList();
         }
+
+        public User GetById(int id)
+        {
+            return dal.Get(id);
+        }
+
+        #endregion
+
+
     }
 }

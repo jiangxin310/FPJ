@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
@@ -44,10 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomerAuthentication.cs" />
+    <Compile Include="CustomerFormsAuthentication.cs" />
     <Compile Include="CustomerAuthenticationAttribute.cs" />
-    <Compile Include="CustomerAuthenticationTicket.cs" />
-    <Compile Include="CustomerIdentity.cs" />
     <Compile Include="CustomerPrincipal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

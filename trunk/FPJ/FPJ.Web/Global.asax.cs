@@ -1,4 +1,6 @@
-﻿using System;
+﻿using FPJ.AuthCore;
+using FPJ.Web.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -19,6 +21,12 @@ namespace FPJ.Web
             WebApiConfig.Register(GlobalConfiguration.Configuration);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+        }
+
+        protected void Application_AuthenticateRequest(object sender, EventArgs e)
+        {
+            HttpApplication app = (HttpApplication)sender;
+            app.Context.User = new CustomerPrincipal<UserLoginVM>();
         }
     }
 }

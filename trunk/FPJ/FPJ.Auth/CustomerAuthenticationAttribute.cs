@@ -18,6 +18,7 @@ namespace FPJ.AuthCore
             {
                 var returnUrl = filterContext.HttpContext.Request.RawUrl;
                 filterContext.Result = new RedirectResult(Config.Instance.LoginUrl + "?returnurl=" + returnUrl);
+                return;
             }
 
             base.OnActionExecuting(filterContext);

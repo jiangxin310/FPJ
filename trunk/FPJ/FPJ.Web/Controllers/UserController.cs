@@ -11,15 +11,16 @@ namespace FPJ.Web.Controllers
     public class UserController : BaseController
     {
 
-        public ActionResult Login()
+        public ActionResult Login(string returnurl = "")
         {
+            ViewBag.returnurl = returnurl;
             return View();
         }
 
         //
         // GET: /User/
         [HttpPost]
-        public ActionResult Login(string userName, string pwd)
+        public ActionResult Login(string userName, string pwd, string returnurl = "/")
         {
             UserLoginVM um = new UserLoginVM
             {
@@ -28,7 +29,7 @@ namespace FPJ.Web.Controllers
             };
             CustomerFormsAuthentication.SignIn(userName, 7 * 24 * 60, um);
 
-            return Redirect("/");
+            return Redirect(returnurl);
         }
 
         public ActionResult LoginOut()

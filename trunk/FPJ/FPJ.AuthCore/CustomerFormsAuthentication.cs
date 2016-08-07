@@ -12,7 +12,7 @@ namespace FPJ.AuthCore
     /// 自定义登录身份认证（包装FormsAuthentication)
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public class CustomerFormsAuthentication<T> where T : class, new()
+    public class CustomerFormsAuthentication
     {
         /// <summary>
         /// 用户身份登录
@@ -20,7 +20,7 @@ namespace FPJ.AuthCore
         /// <param name="userName">用户标识</param>
         /// <param name="expiration">过期时间（单位：分钟）</param>
         /// <param name="userData">用户登录附加数据</param>
-        public static void SignIn(string userName, int? expiration, T userData = null)
+        public static void SignIn(string userName, int? expiration, object userData = null)
         {
             string userDataJson = null;
             if (userData != null)

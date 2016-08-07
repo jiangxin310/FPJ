@@ -24,7 +24,7 @@ namespace FPJ.Context
         {
             get
             {
-                return "";
+                return "/user/login";
             }
         }
 

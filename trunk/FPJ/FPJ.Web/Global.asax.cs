@@ -26,7 +26,11 @@ namespace FPJ.Web
         protected void Application_AuthenticateRequest(object sender, EventArgs e)
         {
             HttpApplication app = (HttpApplication)sender;
-            app.Context.User = new CustomerPrincipal<UserLoginVM>();
+            var cp = new CustomerPrincipal<UserLoginVM>();
+            if (cp.Identity != null)
+            {
+                app.Context.User = cp;
+            }
         }
     }
 }

@@ -13,31 +13,34 @@ namespace FPJ.AuthCore
     /// 当前上下文自定义用户对象
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public class CustomerPrincipal<T> : IPrincipal where T : class, new()
+    public class CustomerPrincipal<T> : IPrincipal
     {
         public T UserData { get; set; }
 
-        public FormsAuthenticationTicket FormsAuthenticationTicket { get; set; }
+        public FormsAuthenticationTicket Ticket { get; set; }
+
+        private IIdentity _identity;
 
         public IIdentity Identity
         {
             get
             {
-                return new FormsIdentity(FormsAuthenticationTicket);
+                return _identity;
             }
         }
 
         public CustomerPrincipal()
         {
-            GetUserInfo();
+            Init();
         }
+
 
         public bool IsInRole(string role)
         {
             return true;
         }
 
-        private void GetUserInfo()
+        public void Init()
         {
             if (HttpContext.Current == null)
             {
@@ -59,7 +62,13 @@ namespace FPJ.AuthCore
                     UserData = JsonConvert.DeserializeObject<T>(ticket.UserData);
                 }
 
-                FormsAuthenticationTicket = ticket;
+                if (ticket != null && UserData != null)
+                {
+                    this.Ticket = ticket;
+                    this.UserData = UserData;
+                    this._identity = new FormsIdentity(ticket);
+                    HttpContext.Current.User = this;
+                }
             }
             catch
             {

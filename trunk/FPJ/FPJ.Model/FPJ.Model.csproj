@@ -52,12 +52,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DapperExtensions\DapperExtensions.csproj">
-      <Project>{0ee9b2ad-6cc9-4910-ae6b-a6ce2475349d}</Project>
-      <Name>DapperExtensions</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="T4\DefaultDBTemplate.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>DefaultDBTemplate.cs</LastGenOutput>
@@ -71,6 +65,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Default\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DapperExtensions\DapperExtensions.csproj">
+      <Project>{0ee9b2ad-6cc9-4910-ae6b-a6ce2475349d}</Project>
+      <Name>DapperExtensions</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

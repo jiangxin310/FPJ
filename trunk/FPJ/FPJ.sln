@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis", "Redis\Redis.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FPJ.Service", "FPJ.Service", "{CAE0D6F0-1276-40EF-8CC0-94A9687B663C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.AuthCore", "FPJ.Auth\FPJ.AuthCore.csproj", "{63B505CE-1F26-4B5D-948F-613CEB73B11B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.AuthCore", "FPJ.AuthCore\FPJ.AuthCore.csproj", "{63B505CE-1F26-4B5D-948F-613CEB73B11B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -54,3 +54,4 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.BLL\bin\Debug\Microsoft.Threa
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.BLL\obj\Debug\FPJ.BLL.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.BLL\obj\Debug\FPJ.BLL.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.BLL\obj\Debug\FPJ.BLL.pdb
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.BLL\bin\Debug\Newtonsoft.Json.xml

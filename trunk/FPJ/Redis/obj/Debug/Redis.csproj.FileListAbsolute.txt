@@ -48,3 +48,4 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Redis\obj\Debug\Redis.csproj.App.
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Redis\obj\Debug\Redis.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Redis\obj\Debug\Redis.pdb
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Redis\bin\Debug\Newtonsoft.Json.xml

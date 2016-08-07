@@ -82,3 +82,7 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\bin\zh-Hans\System.Web.We
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.pdb
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\bin\FPJ.AuthCore.dll
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\bin\FPJ.Context.dll
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\bin\FPJ.AuthCore.pdb
+D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.Web\bin\FPJ.Context.pdb

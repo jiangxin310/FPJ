@@ -20,3 +20,14 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.DAL\bin\Debug\FPJ.Model.pdb
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.pdb
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\FPJ.DAL.dll
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\FPJ.DAL.pdb
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\Dapper.dll
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\DapperExtensions.dll
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\FPJ.Model.dll
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\DapperExtensions.pdb
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\Dapper.pdb
+D:\工作\Git\trunk\FPJ\FPJ.DAL\bin\Debug\FPJ.Model.pdb
+D:\工作\Git\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.csprojResolveAssemblyReference.cache
+D:\工作\Git\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.dll
+D:\工作\Git\trunk\FPJ\FPJ.DAL\obj\Debug\FPJ.DAL.pdb

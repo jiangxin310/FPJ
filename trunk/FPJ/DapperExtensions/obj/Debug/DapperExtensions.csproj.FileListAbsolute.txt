@@ -12,3 +12,10 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\DapperExtensions\bin\Debug\Dapper
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.pdb
+D:\工作\Git\trunk\FPJ\DapperExtensions\bin\Debug\DapperExtensions.dll
+D:\工作\Git\trunk\FPJ\DapperExtensions\bin\Debug\DapperExtensions.pdb
+D:\工作\Git\trunk\FPJ\DapperExtensions\bin\Debug\Dapper.dll
+D:\工作\Git\trunk\FPJ\DapperExtensions\bin\Debug\Dapper.pdb
+D:\工作\Git\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.csprojResolveAssemblyReference.cache
+D:\工作\Git\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.dll
+D:\工作\Git\trunk\FPJ\DapperExtensions\obj\Debug\DapperExtensions.pdb

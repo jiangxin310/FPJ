@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.DAL", "FPJ.DAL\FPJ.DAL.csproj", "{B5F2C536-3795-47F7-B201-61579EBB139E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.BLL", "FPJ.BLL\FPJ.BLL.csproj", "{B6D1D28D-93FF-4AB6-9FFA-90A738B68B18}"
@@ -24,6 +26,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FPJ.Service", "FPJ.Service", "{CAE0D6F0-1276-40EF-8CC0-94A9687B663C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.AuthCore", "FPJ.AuthCore\FPJ.AuthCore.csproj", "{63B505CE-1F26-4B5D-948F-613CEB73B11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPJ.Attributes", "FPJ.Attributes\FPJ.Attributes.csproj", "{F80AABB6-D946-4D3E-8FF1-0BEE6DB660D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,10 @@ Global
 		{63B505CE-1F26-4B5D-948F-613CEB73B11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63B505CE-1F26-4B5D-948F-613CEB73B11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63B505CE-1F26-4B5D-948F-613CEB73B11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80AABB6-D946-4D3E-8FF1-0BEE6DB660D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80AABB6-D946-4D3E-8FF1-0BEE6DB660D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80AABB6-D946-4D3E-8FF1-0BEE6DB660D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80AABB6-D946-4D3E-8FF1-0BEE6DB660D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -45,3 +45,17 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.AuthCore\bin\Debug\zh-Hans\Sy
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.csprojResolveAssemblyReference.cache
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.pdb
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.AuthCore.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.AuthCore.pdb
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.Context.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\System.Web.Mvc.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.Context.pdb
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Newtonsoft.Json.xml
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\System.Web.Mvc.xml
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\zh-Hans\Microsoft.Web.Infrastructure.resources.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.csprojResolveAssemblyReference.cache
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.dll
+D:\工作\Git\trunk\FPJ\FPJ.AuthCore\obj\Debug\FPJ.AuthCore.pdb

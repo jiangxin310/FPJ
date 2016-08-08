@@ -11,3 +11,8 @@ D:\工作\GitHub\FPJ\trunk\FPJ\FPJ.Context\bin\Debug\FPJ.Context.pdb
 D:\工作\GitHub\FPJ\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.csprojResolveAssemblyReference.cache
 D:\工作\GitHub\FPJ\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.dll
 D:\工作\GitHub\FPJ\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Context\bin\Debug\FPJ.Context.dll
+D:\工作\Git\trunk\FPJ\FPJ.Context\bin\Debug\FPJ.Context.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.csprojResolveAssemblyReference.cache
+D:\工作\Git\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.dll
+D:\工作\Git\trunk\FPJ\FPJ.Context\obj\Debug\FPJ.Context.pdb

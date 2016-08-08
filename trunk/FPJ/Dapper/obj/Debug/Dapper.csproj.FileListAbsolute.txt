@@ -6,3 +6,7 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Dapper\bin\Debug\Dapper.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Dapper\bin\Debug\Dapper.pdb
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Dapper\obj\Debug\Dapper.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\Dapper\obj\Debug\Dapper.pdb
+D:\工作\Git\trunk\FPJ\Dapper\bin\Debug\Dapper.dll
+D:\工作\Git\trunk\FPJ\Dapper\bin\Debug\Dapper.pdb
+D:\工作\Git\trunk\FPJ\Dapper\obj\Debug\Dapper.dll
+D:\工作\Git\trunk\FPJ\Dapper\obj\Debug\Dapper.pdb

@@ -151,6 +151,10 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FPJ.Attributes\FPJ.Attributes.csproj">
+      <Project>{f80aabb6-d946-4d3e-8ff1-0bee6db660d5}</Project>
+      <Name>FPJ.Attributes</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FPJ.AuthCore\FPJ.AuthCore.csproj">
       <Project>{63b505ce-1f26-4b5d-948f-613ceb73b11b}</Project>
       <Name>FPJ.AuthCore</Name>

@@ -27,3 +27,4 @@ D:\工作\Git\trunk\FPJ\Utility\bin\Debug\Utility.pdb
 D:\工作\Git\trunk\FPJ\Utility\bin\Debug\log4net.dll
 D:\工作\Git\trunk\FPJ\Utility\obj\Debug\Utility.dll
 D:\工作\Git\trunk\FPJ\Utility\obj\Debug\Utility.pdb
+D:\工作\Git\trunk\FPJ\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache

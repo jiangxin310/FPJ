@@ -115,7 +115,6 @@ D:\工作\Git\trunk\FPJ\FPJ.Web\bin\FPJ.Attributes.pdb
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\FPJ.AuthCore.pdb
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\FPJ.BLL.pdb
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\FPJ.Model.pdb
-D:\工作\Git\trunk\FPJ\FPJ.Web\bin\Newtonsoft.Json.xml
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\System.Net.Http.xml
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\System.Net.Http.Formatting.xml
 D:\工作\Git\trunk\FPJ\FPJ.Web\bin\System.Net.Http.WebRequest.xml

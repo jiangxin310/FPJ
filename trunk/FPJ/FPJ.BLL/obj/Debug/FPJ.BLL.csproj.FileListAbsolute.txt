@@ -77,7 +77,6 @@ D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\DapperExtensions.pdb
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\StackExchange.Redis.pdb
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\StackExchange.Redis.xml
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\FPJ.Context.pdb
-D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\Newtonsoft.Json.xml
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\System.Runtime.xml
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\System.Threading.Tasks.xml
 D:\工作\Git\trunk\FPJ\FPJ.BLL\bin\Debug\Microsoft.Threading.Tasks.xml

@@ -39,9 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\BaseBLL.cs" />
     <Compile Include="Default\DefaultBaseBLL.cs" />
     <Compile Include="Default\UsersBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Test2\Test2BaseBLL.cs" />
+    <Compile Include="Test2\ArticleBLL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FPJ.DAL\FPJ.DAL.csproj">

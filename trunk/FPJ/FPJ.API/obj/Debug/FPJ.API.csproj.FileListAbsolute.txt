@@ -7,3 +7,7 @@ D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.API\bin\Debug\FPJ.API.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.API\bin\Debug\FPJ.API.pdb
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.API\obj\Debug\FPJ.API.dll
 D:\开发项目\实际项目\Git\FPJ\trunk\FPJ\FPJ.API\obj\Debug\FPJ.API.pdb
+D:\工作\Git\trunk\FPJ\FPJ.API\bin\Debug\FPJ.API.dll
+D:\工作\Git\trunk\FPJ\FPJ.API\bin\Debug\FPJ.API.pdb
+D:\工作\Git\trunk\FPJ\FPJ.API\obj\Debug\FPJ.API.dll
+D:\工作\Git\trunk\FPJ\FPJ.API\obj\Debug\FPJ.API.pdb

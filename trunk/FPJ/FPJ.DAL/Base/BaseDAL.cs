@@ -6,6 +6,7 @@ using Dapper;
 using DapperExtensions;
 using System.Configuration;
 using System.Data;
+using FPJ.Model;
 
 namespace FPJ.DAL.Base
 {
@@ -196,6 +197,11 @@ namespace FPJ.DAL.Base
 
         #region List、PageList Operator
 
+        /// <summary>
+        /// 获取List集合（predicate表达式查询）
+        /// </summary>
+        /// <param name="predicate"></param>
+        /// <returns></returns>
         public IEnumerable<T> GetList(object predicate = null)
         {
             using (var conn = Conn.GetConn(ConnectionString))
@@ -232,7 +238,7 @@ namespace FPJ.DAL.Base
         {
             using (var conn = Conn.GetConn(ConnectionString))
             {
-                return conn.Query<TFirst, TSecond, TReturn>(sql, map, param);
+                return conn.Query(sql, map, param);
             }
         }
 
@@ -251,7 +257,7 @@ namespace FPJ.DAL.Base
         {
             using (var conn = Conn.GetConn(ConnectionString))
             {
-                return conn.Query<TFirst, TSecond, TThird, TReturn>(sql, map, param);
+                return conn.Query(sql, map, param);
             }
         }
 
@@ -293,7 +299,7 @@ namespace FPJ.DAL.Base
         {
             using (var conn = Conn.GetConn(ConnectionString))
             {
-                return conn.PageList<TFirst, TSecond, TReturn>(sql, map, page, psize, param, order, splitOn, isnext);
+                return conn.PageList(sql, map, page, psize, param, order, splitOn, isnext);
             }
         }
 
@@ -318,7 +324,7 @@ namespace FPJ.DAL.Base
         {
             using (var conn = Conn.GetConn(ConnectionString))
             {
-                return conn.PageList<TFirst, TSecond, TThird, TReturn>(sql, map, page, psize, param, order, splitOn, isnext);
+                return conn.PageList(sql, map, page, psize, param, order, splitOn, isnext);
             }
         }
 

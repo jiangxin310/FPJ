@@ -64,7 +64,6 @@ D:\工作\Git\trunk\FPJ\Redis\bin\Debug\FPJ.Context.pdb
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\Microsoft.Threading.Tasks.xml
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
-D:\工作\Git\trunk\FPJ\Redis\bin\Debug\Newtonsoft.Json.xml
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\StackExchange.Redis.pdb
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\StackExchange.Redis.xml
 D:\工作\Git\trunk\FPJ\Redis\bin\Debug\System.IO.xml

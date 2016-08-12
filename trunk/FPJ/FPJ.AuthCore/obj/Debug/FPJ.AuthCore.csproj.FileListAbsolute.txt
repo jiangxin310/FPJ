@@ -51,7 +51,6 @@ D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.Context.dll
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\System.Web.Mvc.dll
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Microsoft.Web.Infrastructure.dll
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\FPJ.Context.pdb
-D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Newtonsoft.Json.xml
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\System.Web.Mvc.xml
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\Microsoft.Web.Infrastructure.xml
 D:\工作\Git\trunk\FPJ\FPJ.AuthCore\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll

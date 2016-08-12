@@ -143,7 +143,11 @@ namespace FPJ.BLL.Base
 
         #region List、PageList Operator
 
-
+        /// <summary>
+        /// 获取List集合（predicate表达式查询）
+        /// </summary>
+        /// <param name="predicate"></param>
+        /// <returns></returns>
         public IEnumerable<T> GetList(object predicate = null)
         {
             return dal.GetList(predicate);

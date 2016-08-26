@@ -92,7 +92,7 @@ namespace Redis
         /// </summary>
         /// <param name="key"></param>
         /// <param name="value"></param>
-        public static bool Set(string key, object value, TimeSpan? expiry)
+        public static bool Set(string key, object value, TimeSpan? expiry = null)
         {
             key = MergeKey(key);
             return GetDatabase().StringSet(key, Serialize(value), expiry);

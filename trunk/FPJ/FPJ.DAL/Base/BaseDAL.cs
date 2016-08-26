@@ -19,7 +19,7 @@ namespace FPJ.DAL.Base
 
         public BaseDAL(string ConnectionStringName = ConnectionStringNameConfig.DefaultDBName)
         {
-            this.ConnectionString = ConfigurationManager.AppSettings[ConnectionStringName];
+            this.ConnectionString =ConfigurationManager.ConnectionStrings[ConnectionStringName].ConnectionString;
         }
 
         #region insert/update/delete

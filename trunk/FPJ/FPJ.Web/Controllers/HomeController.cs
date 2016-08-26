@@ -20,6 +20,10 @@ namespace FPJ.Web.Controllers
             var articleList = _bllArticle.GetList();
             ViewBag.articleList = articleList;
 
+            _bllUsers.SetName("name", Request["name"]);
+
+            ViewBag.name = _bllUsers.GetName("name");
+
             return View(list);
         }
 

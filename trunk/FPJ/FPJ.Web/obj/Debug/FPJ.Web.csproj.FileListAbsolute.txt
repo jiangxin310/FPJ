@@ -145,3 +145,8 @@ D:\工作\Git\trunk\FPJ\FPJ.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.
 D:\工作\Git\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.csprojResolveAssemblyReference.cache
 D:\工作\Git\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.dll
 D:\工作\Git\trunk\FPJ\FPJ.Web\obj\Debug\FPJ.Web.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Web\bin\Redis.dll
+D:\工作\Git\trunk\FPJ\FPJ.Web\bin\StackExchange.Redis.dll
+D:\工作\Git\trunk\FPJ\FPJ.Web\bin\Redis.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Web\bin\StackExchange.Redis.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Web\bin\StackExchange.Redis.xml
